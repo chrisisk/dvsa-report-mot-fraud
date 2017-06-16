@@ -1,5 +1,6 @@
 
 # Check MOT history Prototype
 
-Content designer & researcher: Olivia Sharp
-UX Designer: Chris Sisk
+Content designer & researcher: [Olivia Sharp](mailto:o.sharp@kainos.com)
+
+UX Designer: [Chris Sisk](mailto:c.sisk@kainos.com)
