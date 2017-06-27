@@ -33,7 +33,7 @@ $path: "/public/images/";
 
 .banner{
   color:$page-colour;
-  padding:20px 20px 15px 20px!important;
+  padding:20px 20px 5px 20px!important;
 }
 
 .banner h2{
@@ -43,6 +43,7 @@ $path: "/public/images/";
 .banner a{
   color:$page-colour;
   font-weight:bold;
+  margin:0px 0 5px 0!important;
 }
 
 
